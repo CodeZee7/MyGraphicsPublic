@@ -17,12 +17,13 @@
 
 ## Between His Shoulderblades
 - A religious company - owner of a chain of multiple organisations (Podcast, Cupping therapy, Youth sessions etc.).
-- 
-![ss](./BetweenHisShoulderblades/BetweenHisShoulderblades_Logo.png)
+
+![ss](./BetweenHisShoulderblades/BetweenHisShoulderbladesLogo.png)
 
 ## Haya Collections
 - Faith inspired jewellery and accessory store.
 
+![ss](./HayaCollections/HayaCollectionsLogo.png)
 
 ## Illimited Apparel UK old
 - My old clothing business.
