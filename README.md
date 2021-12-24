@@ -5,7 +5,7 @@
 
 
 ## Table of Contents
-* [Between His Shoulder Blades](#between-his-shoulders)
+* [Between His Shoulderblades](#between-his-shoulderblades)
 * [Haya Collections](#haya-collections)
 * [Illimited Apparel UK (old)](#illimited-apparel-uk-old)
 * [Illimited Apparel UK (rebranded)](#illimited-apparel-uk-rebranded)
@@ -15,25 +15,37 @@
 * [Wallpapers](#wallpapers)
 
 
-## Between His Shoulder Blades
+## Between His Shoulderblades
+- A religious company - owner of a chain of multiple organisations (Podcast, Cupping therapy, Youth sessions etc.).
 
 
 ## Haya Collections
+- Faith inspired jewellery and accessory store.
 
 
 ## Illimited Apparel UK old
+- My old clothing business.
 
 
 ## Illimited Apparel UK rebranded
+- My clothing brand business after rebranding.
 
 
 ## CodeZee
+- Me :) (Youtube etc.).
 
 
 ## My Mobile App
+- My mobile app in progress.
+
+- These graphics are hidden until the project is complete.
 
 
 ## Brother Ibrahim
+- My old Youtube channel.
 
 
 ## Wallpapers
+- Wallpapers I have designed.
+
+- Available for use-contact me for permission to download. :)
